@@ -15,5 +15,7 @@ int main() {
   if (purch > 2)
     cout << "Hai" << endl;
 
+  else
+    cout << "Yo" << endl;
   return 0;
 }
