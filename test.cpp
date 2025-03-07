@@ -13,7 +13,7 @@ int main() {
   cin >> purch;
 
   if (purch > 2)
-    cout << "Hi" << endl;
+    cout << "Hai" << endl;
 
   return 0;
 }
